@@ -8,6 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 -- SETTINGS
 local MESSAGES = {
     "join /ɾagеbaіts | ",
+    "ABBY ON CAM IN /ɾagеbaіts | ",
     "boost 4 your own msg 🤑🤑 | ",
     "Eboys and egirls in /stud fun com server join now /stud | ", -- 1424087959103209675
     "wanna start botting? /ɾagеbaіts !! | ",
