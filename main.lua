@@ -9,9 +9,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 local MESSAGES = {
     "join /ɾagеbaіts | ",
     "boost 4 your own msg 🤑🤑 | ",
-    "Eboys and egirls in /stud fun com server join now /stud | ",
+    "Eboys and egirls in /stud fun com server join now /stud | ", -- 1424087959103209675
     "wanna start botting? /ɾagеbaіts !! | ",
-    "Join /stud for giveaways & fun people to talk to | "
+    "Join /stud for giveaways & fun people to talk to | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
