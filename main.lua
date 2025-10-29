@@ -10,9 +10,9 @@ local MESSAGES = {
     "join /ɾagebaits | ",
     "join /ɾagebaits 4 nitro | ",
     "boost /ɾagebaits 4 your own msg 🤑🤑 | ",
-    "Eboys and egirls in /Ꮪtud fun com server join now /Ꮪtud | ", -- 1424087959103209675
+    "Eboys and egirls in /stuｄ fun com server join now /stuｄ | ", -- 1424087959103209675
     "wanna start botting? /ɾagebaits !! | ",
-    "Join /Ꮪtud for giveaways & fun people to talk to | " -- 1424087959103209675
+    "Join /stuｄ for giveaways & fun people to talk to | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
