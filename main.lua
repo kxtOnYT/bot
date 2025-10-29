@@ -7,11 +7,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 
 -- SETTINGS
 local MESSAGES = {
-    "join /ɾagеbaіts | ",
-    "ABBY ON CAM IN /ɾagеbaіts | ",
+    "join /ɾagebaits | ",
+    "you can get a custom message in /ɾagebaits ‼️‼️ | ",
     "boost 4 your own msg 🤑🤑 | ",
     "Eboys and egirls in /stud fun com server join now /stud | ", -- 1424087959103209675
-    "wanna start botting? /ɾagеbaіts !! | ",
+    "wanna start botting? /ɾagebaits !! | ",
     "Join /stud for giveaways & fun people to talk to | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
