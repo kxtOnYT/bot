@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 local MESSAGES = {
     "join /ɾagebaits | ",
     "join /ɾagebaits 4 nitro | ",
-    "boost 4 your own msg 🤑🤑 | ",
+    "boost /ɾagebaits 4 your own msg 🤑🤑 | ",
     "Eboys and egirls in /stud fun com server join now /stud | ", -- 1424087959103209675
     "wanna start botting? /ɾagebaits !! | ",
     "Join /stud for giveaways & fun people to talk to | " -- 1424087959103209675
