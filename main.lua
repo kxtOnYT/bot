@@ -11,7 +11,7 @@ local MESSAGES = {
     "join /ɾagebaits 4 nitro | ",
     "boost /ɾagebaits 4 your own msg 🤑🤑 | ",
     "/sţud 4 egirls | ", -- 1424087959103209675
-    "wanna start botting? /ɾagebaits !! | ",
+    "get your own msg in /ɾagebaits !! | ",
     "giveaways in /sţud | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
