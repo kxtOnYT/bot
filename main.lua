@@ -12,7 +12,7 @@ local MESSAGES = {
     "boost /ɾagebaits 4 your own msg 🤑🤑 | ",
     "/sţud 4 egirls | ", -- 1424087959103209675
     "get your own msg in /ɾagebaits !! | ",
-    "giveaways in /sţud | " -- 1424087959103209675
+    "gws in /sţud | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
