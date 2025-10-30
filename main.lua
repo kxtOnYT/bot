@@ -7,11 +7,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 
 -- SETTINGS
 local MESSAGES = {
-    "join /nbm | ",
-    "join /nbm 4 nitro | ",
-    "boost /nbm 4 your own msg 🤑🤑 | ",
+    "join /ņbm | ",
+    "join /ņbm 4 nitro | ",
+    "boost /ņbm 4 your own msg 🤑🤑 | ",
     "/sţud 4 egirls | ", -- 1424087959103209675
-    "get your own msg in /nbm !! | ",
+    "get your own msg in /ņbm !! | ",
     "gws in /sţud | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
