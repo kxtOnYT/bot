@@ -10,9 +10,9 @@ local MESSAGES = {
     "join /ɾagebaits | ",
     "join /ɾagebaits 4 nitro | ",
     "boost /ɾagebaits 4 your own msg 🤑🤑 | ",
-    "Eboys and egirls in / stud | ", -- 1424087959103209675
+    "/sţud 4 egirls | ", -- 1424087959103209675
     "wanna start botting? /ɾagebaits !! | ",
-    "Join / stud for giveaways & fun people to talk to | " -- 1424087959103209675
+    "giveaways in /sţud | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
@@ -45,7 +45,7 @@ end
 
 -- random suffix generator
 local function randomSuffix(len)
-    local chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    local chars = "abcdefghijklmnopqrstuvwxyz123456789"
     local out = ""
     for i = 1, len do
         local r = math.random(1, #chars)
