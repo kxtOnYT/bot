@@ -12,6 +12,7 @@ local MESSAGES = {
     "boost /nbᴍ 4 your own msg 🤑🤑 | ",
     "/stυd 4 egirls | ", -- 1424087959103209675
     "get your own msg in /nbᴍ !! | ",
+    "user186389 needs e girls | ", -- 1290376267866308750 
     "gws in /stυd | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
