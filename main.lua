@@ -16,7 +16,7 @@ local MESSAGES = {
     "gws in /stυd | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
-local SUFFIX_LEN          = 10     -- random suffix length appended to each message
+local SUFFIX_LEN          = 5     -- random suffix length appended to each message
 local MOVE_ENABLED        = true  -- whether to follow targets
 local SERVER_HOP_ENABLED  = false
 local SERVER_HOP_INTERVAL = 30    -- initial wait before attempting server hop (seconds)
