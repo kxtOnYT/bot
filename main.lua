@@ -46,7 +46,7 @@ end
 
 -- random suffix generator
 local function randomSuffix(len)
-    local chars = "abcdefghijklmnopqrstuvwxyz123456789"
+    local chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     local out = ""
     for i = 1, len do
         local r = math.random(1, #chars)
