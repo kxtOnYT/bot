@@ -12,6 +12,7 @@ local MESSAGES = {
     "boost /nbᴍ 4 your own msg 🤑🤑 | ",
     "/stυd 4 egirls | ", -- 1424087959103209675
     "get your own msg in /nbᴍ !! | ",
+    "Cheap Limiteds /8tAVswhzzj | ", --1401980757135724674
     "free topfloorboss (user186389) | ", -- 1290376267866308750 
     "gws in /stυd | " -- 1424087959103209675
 }
