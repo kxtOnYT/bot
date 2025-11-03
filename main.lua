@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 
 -- SETTINGS
 local MESSAGES = {
-    "improve67 on blu | ",
+    "improve67 💿 | ",
     "first 10 to add get dono | ", --1401980757135724674
     "add improve67 for dono  | ", -- 1290376267866308750 
     "add it up!! | " -- 1424087959103209675
