@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 -- SETTINGS
 local MESSAGES = {
     "join /hTTbCWby | ",
-    "best com on dollhouse | ", --1401980757135724674
+    "please join im desperate i need members | ", --1401980757135724674
     "Only chadlites join /hTTbCWby  | ", -- 1290376267866308750 
     "Join or you're PSL Zero | " -- 1424087959103209675
 }
