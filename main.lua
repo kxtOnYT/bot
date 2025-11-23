@@ -7,10 +7,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 
 -- SETTINGS
 local MESSAGES = {
-    "improve67 💿 | ",
-    "first 10 to add get dono | ", --1401980757135724674
-    "add improve67 for dono  | ", -- 1290376267866308750 
-    "add it up!! | " -- 1424087959103209675
+    "/hTTbCWby | ",
+    "best com on dollhouse | ", --1401980757135724674
+    "/hTTbCWby  | ", -- 1290376267866308750 
+    "join up!! | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
