@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 -- SETTINGS
 local MESSAGES = {
     "join /hTTbCWby | ",
-    "please join im desperate | ", --1401980757135724674
+    "grim can't moderate 😂 | ", --1401980757135724674
     "Only chadlites join /hTTbCWby  | ", -- 1290376267866308750 
     "/hTTbCWby | " -- 1424087959103209675
 }
