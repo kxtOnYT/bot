@@ -9,7 +9,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 local MESSAGES = {
     "join /hTTbCWby | ",
     "grim can't moderate 😂 | ", --1401980757135724674
-    "Only chadlites join /hTTbCWby  | ", -- 1290376267866308750 
+    "Only chadlites join /hTTbCWby  | ",
+    "Join to get your own bot  | ",-- 1290376267866308750 
     "/hTTbCWby | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
