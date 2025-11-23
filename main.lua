@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 local MESSAGES = {
     "pls join /hTTbCWby | ",
     "please join im desperate i need members | ", --1401980757135724674
-    "I NEED MEMBERS PLS /hTTbCWby  | ", -- 1290376267866308750 
+    "PLS JOIN /hTTbCWby  | ", -- 1290376267866308750 
     "PLSPLSPLS | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
