@@ -9,8 +9,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 local MESSAGES = {
     "pls join /hTTbCWby | ",
     "please join im desperate i need members | ", --1401980757135724674
-    "PLS JOIN /hTTbCWby  | ", -- 1290376267866308750 
-    "PLSPLSPLS | " -- 1424087959103209675
+    "KORBLOX GIVEAWAY IN #GWS  | ", -- 1290376267866308750 
+    "join /hTTbCWby | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
