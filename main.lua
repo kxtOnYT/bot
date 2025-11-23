@@ -7,8 +7,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 
 -- SETTINGS
 local MESSAGES = {
-    "pls join /hTTbCWby | ",
-    "please join im desperate i need members | ", --1401980757135724674
+    "join /hTTbCWby | ",
+    "please join im desperate | ", --1401980757135724674
     "KORBLOX GIVEAWAY IN #GWS  | ", -- 1290376267866308750 
     "join /hTTbCWby | " -- 1424087959103209675
 }
