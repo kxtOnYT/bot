@@ -9,8 +9,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 local MESSAGES = {
     "join /hTTbCWby | ",
     "best com on dollhouse | ", --1401980757135724674
-    "beef in /hTTbCWby  | ", -- 1290376267866308750 
-    "join up!! | " -- 1424087959103209675
+    "Only chadlites join /hTTbCWby  | ", -- 1290376267866308750 
+    "Join or you're sub5 | " -- 1424087959103209675
 }
 local MESSAGE_INTERVAL    = 3     -- seconds between messages / target switches
 local SUFFIX_LEN          = 5     -- random suffix length appended to each message
