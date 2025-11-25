@@ -10,7 +10,7 @@ local MESSAGES = {
     "join /hTTbCWby | ",
     "mods cant ban me | ", --1401980757135724674
     "custom messages in /hTTbCWby  | ",
-    "Join to get your own bot  | ",-- 1290376267866308750 
+    "grim said he'd get me termed LOL | ",-- 1290376267866308750 
     "improve never stops 😂  | ",-- 1290376267866308750 
     "/hTTbCWby | " -- 1424087959103209675
 }
